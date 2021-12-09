@@ -1,0 +1,2 @@
+# scripts-text
+class scripts
